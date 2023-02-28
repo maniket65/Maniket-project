@@ -32,7 +32,6 @@ body{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background-color: rgb(0, 0, 0); */
 }
 
 .hero2 nav .logo{
@@ -102,61 +101,4 @@ body{
 margin-bottom: 30px;
 }
 
-
-/* container 2 */
-/* .main-container2 .containers2{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-top: 30px;
-  width: 100%;
-  height: 50vh;
-  color: black;
-  z-index: 1;
-}
-
-.containers2 .box{
-  position: relative;
-  border: 2px solid rgb(156, 27, 31);
-  width: 230px;
-  height: 330px;
-  margin: 25px;
-  cursor: pointer;
-}
-
-.main-container2{
-  position: relative;
-  margin-top: 100px;
-  overflow: hidden;
-}
-
-.main-container2 .best-series{
-  position: absolute;
-  display: inline-block;
-  left: 93px;
-  font-size: 30px;
-  padding-bottom: 10px;
-  overflow: hidden;
-  color: #fff;
-}
-
-.main-container2 .containers2 img{
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
-
-.hero2 nav ul li :hover{
-  color: #ffb731;
-} */
-
-
-
-
-
-
-
-/* container 2 */
 
