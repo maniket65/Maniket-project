@@ -1,5 +1,5 @@
 form {
-    border: 3px solid #0d0e0d;
+    border: 5px solid #edd946f0;
   }
   
   input[type=text], input[type=password] {
@@ -20,6 +20,18 @@ form {
     cursor: pointer;
     width: 100%;
   }
+  .footer
+{
+	position:absolute;
+
+	margin:auto;
+	width:99%;
+	height:100px;
+	text-align:left;
+	font-size:30px;
+	background-color:#edd946f0;
+
+}
  
   button:hover {
     opacity: 0.8;
@@ -49,3 +61,36 @@ form {
     float: right;
     padding-top: 16px;
   }
+  
+  nav{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  nav .logo{
+    width: 50px;
+    color: #edd946f0;
+    font-size: 20px;
+  }
+  
+  nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 80px;
+    font-size: 20px;
+  }
+
+  
+  nav ul li a{
+    text-decoration: none;
+    color: #edd946f0;
+    font-weight: 17px;
+  }
+  

@@ -43,7 +43,7 @@ nav ul li{
 
 nav ul li a{
   text-decoration: none;
-  color: aliceblue;
+  color: #edd946f0;
   font-weight: 17px;
 }
 
@@ -61,7 +61,7 @@ nav ul li a{
 .content a{
   text-decoration: none;
   display: inline-block;
-  color: #ffffff;
+  color: #edd946f0;
   font-size: 15px;
   border: 2px solid #e3e3e3;
   background-color: black;
